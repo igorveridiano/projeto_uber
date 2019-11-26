@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907441680554",
+    "firebase_url": "https://ubsir-774f7.firebaseio.com",
+    "project_id": "ubsir-774f7",
+    "storage_bucket": "ubsir-774f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907441680554:android:4ec99f4488d0797fee60d3",
+        "android_client_info": {
+          "package_name": "com.test.ubsir_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907441680554-8416v283cln5co8tpo6nhs1q32ikt8bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.ubsir_app",
+            "certificate_hash": "dbaebf98ae6cfccabde971e1def4f87b613e06d0"
+          }
+        },
+        {
+          "client_id": "907441680554-5h2eo4o83u34b299ijgbc9mkvp5i7apj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAunX6fltRtIqnEZGwFSzraEv_9fUQYWxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907441680554-5h2eo4o83u34b299ijgbc9mkvp5i7apj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
