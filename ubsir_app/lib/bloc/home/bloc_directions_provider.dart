@@ -4,7 +4,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart' as maps;
 import 'package:google_maps_webservice/directions.dart';
 
 class BlocDirectionsProvider extends ChangeNotifier{
-  GoogleMapsDirections directionsApi = GoogleMapsDirections(apiKey: "AIzaSyDcReICJtbC03IFoR5WuFq5mkpXSMiSXgM");
+  GoogleMapsDirections directionsApi = GoogleMapsDirections(apiKey: "");
 
   Set<maps.Polyline> _rota = Set();
 
